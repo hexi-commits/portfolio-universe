@@ -1,11 +1,11 @@
 {
   "site": {
     "name": "何曦",
-    "nameEn": "CHEN YU · PORTFOLIO",
-    "pageTitle": "陈屿 · 作品宇宙",
-    "description": "陈屿的个人作品集——一个小宇宙。每个作品是环绕星轨的一颗星。",
-    "email": "hi@chenyu.design",
-    "city": "SHANGHAI",
+    "nameEn": "HE XI · PORTFOLIO",
+    "pageTitle": "何曦 · 作品宇宙",
+    "description": "何曦的个人作品集——一个小宇宙。每个作品是环绕星轨的一颗星。",
+    "email": "3201477800@qq.com",
+    "city": "武汉",
     "status": "可接洽",
     "showAdmin": true,
     "resume": {
@@ -395,5 +395,5 @@
   },
   "__site": "65871cb52dad576b",
   "__builtAt": 1794892797,
-  "__publishedAt": 1794894006363
+  "__publishedAt": 1794894142695
 }
