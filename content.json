@@ -35,7 +35,7 @@
     }
   ],
   "home": {
-    "lead": "每个作品都是这个宇宙里的一颗星，\n沿同一条轨道排成一列。滑过去，一颗一颗看。",
+    "lead": "每个作品都是这个宇宙里的一颗星\n滑一下，一颗一颗看",
     "hint": "左右滑动切换作品 · 点击卡牌进入",
     "planetCaption": "MY ORBIT",
     "planetImage": "assets/img/planet.png"
@@ -395,5 +395,5 @@
   },
   "__site": "65871cb52dad576b",
   "__builtAt": 1794895841,
-  "__publishedAt": 1795013046937
+  "__publishedAt": 1795013186754
 }
