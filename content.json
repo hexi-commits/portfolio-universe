@@ -3,7 +3,7 @@
     "name": "何曦",
     "nameEn": "HE XI · PORTFOLIO",
     "pageTitle": "何曦 · 作品宇宙",
-    "description": "何曦的个人作品集——一个小宇宙。每个作品是环绕星轨的一颗星。",
+    "description": "何曦的个人作品集——一个小宇宙。每个作品都是浩瀚宇宙中的一颗星。",
     "email": "3201477800@qq.com",
     "city": "武汉",
     "status": "可接洽",
@@ -375,7 +375,7 @@
     "title": "来",
     "titleAccent": "聊一聊",
     "text": "有想法、想合作，或者只是想说说最近做的东西——都很欢迎。",
-    "email": "hi@chenyu.design",
+    "email": "3201477800@qq.com",
     "socials": [
       {
         "label": "GitHub",
@@ -391,9 +391,9 @@
       }
     ],
     "timezone": "Asia/Shanghai",
-    "cityLabel": "SHANGHAI"
+    "cityLabel": "武汉"
   },
   "__site": "65871cb52dad576b",
-  "__builtAt": 1794892797,
-  "__publishedAt": 1794894210347
+  "__builtAt": 1794895841,
+  "__publishedAt": 1795013035811
 }
